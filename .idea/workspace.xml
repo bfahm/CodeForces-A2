@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="461a140f-e1b1-4d99-9db1-842539aa1cc1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Black_Square.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/Black_Square.java" afterPath="$PROJECT_DIR$/src/Black_Square.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,34 +15,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Police_Recruits.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Police_Recruits.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Black_Square.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Black_Square.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state relative-caret-position="156">
+              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Scanner.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/Scanner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="2114" column="0" lean-forward="false" selection-start-line="2114" selection-start-column="0" selection-end-line="2114" selection-end-column="0" />
-              <folding>
-                <element signature="e#80205#80206#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -327,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519967631773</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new file">
+      <created>1519970253112</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1519970253112</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -367,7 +352,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bug update" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug update" />
+    <MESSAGE value="new file" />
+    <option name="LAST_COMMIT_MESSAGE" value="new file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -442,16 +428,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="2114" column="0" lean-forward="false" selection-start-line="2114" selection-start-column="0" selection-end-line="2114" selection-end-column="0" />
-          <folding>
-            <element signature="e#80205#80206#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Police_Recruits.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
@@ -460,10 +436,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="2117" column="7" lean-forward="true" selection-start-line="2117" selection-start-column="7" selection-end-line="2117" selection-end-column="7" />
+          <folding>
+            <element signature="e#80161#80162#0" expanded="true" />
+            <element signature="e#80205#80206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Black_Square.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        <state relative-caret-position="156">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
           <folding />
         </state>
       </provider>

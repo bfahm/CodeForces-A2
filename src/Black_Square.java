@@ -14,7 +14,7 @@ public class Black_Square {
         int chooser[]=new int[whichIndex.length()];
 
         for (int i=0;i<whichIndex.length();i++){
-            chooser[i]=(int) whichIndex.charAt(i)-48;
+            chooser[i]=Character.getNumericValue(whichIndex.charAt(i));
         }
         for (int j=0;j<chooser.length;j++){
             sum+=calorieIndex[chooser[j]-1];
