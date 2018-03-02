@@ -10,17 +10,15 @@ public class Police_Recruits {
         for (int i=0;i<event_num;i++){
             int scanned=scanner.nextInt();
             if (scanned<0){
-                crimes+=1;
-            }else {
+                crimes=1;
+            }else{
                 current_recruits+=scanned;
             }
-            if (crimes>current_recruits){
+            if (current_recruits<crimes){
                 leftUntreated+=1;
                 crimes=0;
-            }else if (current_recruits>crimes){
-                current_recruits=current_recruits-crimes;
-            }else{
-                current_recruits=0;
+            }else if(crimes>0){
+                current_recruits-=1;
                 crimes=0;
             }
         }
